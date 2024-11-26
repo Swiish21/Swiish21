@@ -11,6 +11,8 @@
 ### Web Development
 * **HTML 🌐, CSS 🎨, JavaScript 🌐:** Strong foundation in web development fundamentals.
 * **React ⚛️, Angular 🅰️, Vue Vue.js:** Teaching myself modern frontend frameworks.
+* **Django 🐘:** Exploring backend web development with Python.
+* **Node.js 🌐:** Learning to build server-side applications with JavaScript.
 
 ### Data Analysis
 * **Excel 📊:** Skilled in data analysis and visualization.
