@@ -5,7 +5,7 @@
 * **Dart/Flutter & React Native 📱:** Proficient in building cross-platform mobile apps.
 * **JavaScript 🌐:** Skilled in frontend and backend development.
 
-### Database
+### Database Administration
 * **MySQL 🗄️:** Proficient in database design and SQL queries.
 
 ### Web Development
