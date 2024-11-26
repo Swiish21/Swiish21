@@ -2,7 +2,7 @@
 
 ### Programming Languages
 * **Python 🐍:** Expanding my knowledge on data science, machine learning, and web development.
-* **Dart/Flutter 📱:** Proficient in building cross-platform mobile apps.
+* **Dart/Flutter & React Native 📱:** Proficient in building cross-platform mobile apps.
 * **JavaScript 🌐:** Skilled in frontend and backend development.
 
 ### Database
