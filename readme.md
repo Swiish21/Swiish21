@@ -1,6 +1,6 @@
 ## MALCOM OTIENO ADRIAN 🏀
 
-### Programming Languages
+### Programming Skillset
 * **Python 🐍:** Expanding my knowledge on data science, machine learning, and web development.
 * **Dart/Flutter & React Native 📱:** Proficient in building cross-platform mobile apps.
 * **JavaScript 🌐:** Skilled in frontend and backend development.
