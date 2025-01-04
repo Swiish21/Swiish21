@@ -3,11 +3,13 @@
 
 ### Programming Skillset
 * **Python 🐍:** Expanding my knowledge on data science, machine learning, and web development.
-* **Dart/Flutter & React Native 📱:** Proficient in building cross-platform mobile apps.
 * **JavaScript 🌐:** Skilled in frontend and backend development.
+* **R 📊:** Utilizing statistical computing and data visualization for data analysis and science.
+* **Dart/Flutter & React Native 📱:** Proficient in building cross-platform mobile apps.
 
 ### Data Science
 * **Python & Jupyter Notebooks 📊:** Proficient in data analysis, visualization, and machine learning.
+* **R & RStudio 📘:** Performing statistical analysis, data wrangling, and creating visualizations.
 * **Pandas & NumPy 📈:** Handling and processing large datasets efficiently.
 * **Scikit-learn & TensorFlow 🤖:** Learning to build and deploy machine learning models.
 * **Matplotlib & Seaborn 🖼️:** Creating insightful data visualizations.
