@@ -33,5 +33,3 @@
 
 ### 3D Modeling
 * **Blender Blender:** Proficient in 3D modeling and animation.
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swiish21&layout=compact)
