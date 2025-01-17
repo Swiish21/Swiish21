@@ -7,7 +7,7 @@
 </tr>
 <tr>
      <td align="center" width="1200" height="300">
-        <img src= "https://github.com/user-attachments/assets/1310e1f6-3a3e-4d6c-ac3d-6149a5c837eb" alt="alx completion cert" />
+        <img src="https://github.com/user-attachments/assets/1310e1f6-3a3e-4d6c-ac3d-6149a5c837eb" alt="alx completion cert" />
       <br> 
     </td> 
 </tr>
@@ -17,6 +17,7 @@
 
 ### Programming Skillset
 * **Python 🐍:** Expanding my knowledge on data science, machine learning, and web development.
+* **C++ 🚀:** Strong grasp of object-oriented programming and systems-level development.
 * **JavaScript 🌐:** Skilled in frontend and backend development.
 * **R 📊:** Utilizing statistical computing and data visualization for data analysis and science.
 * **Dart/Flutter & React Native 📱:** Proficient in building cross-platform mobile apps.
@@ -37,7 +38,7 @@
 ## Flutter Mobile Development
 * **Cross-platform Apps 📱:** Building sleek and responsive mobile applications with Flutter.
 * **State Management 🧩:** Utilizing tools like Provider, Riverpod, and Bloc for efficient app state handling.
-* **Firebase 🔥:** Integrating backend services for authentication, real-time databases, and cloud storage
+* **Firebase 🔥:** Integrating backend services for authentication, real-time databases, and cloud storage.
 
 ### Design Tools
 * **Adobe Creative Suite:** Proficient in Photoshop 🎨, Illustrator ✏️, and other design tools.
@@ -46,6 +47,6 @@
 * **Serato 🎧:** Experienced in DJing and music production.
 
 ### 3D Modeling
-* **Blender Blender:** Proficient in 3D modeling and animation.
+* **Blender:** Proficient in 3D modeling and animation.
 
 ### Technical Certifications
