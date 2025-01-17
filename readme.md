@@ -47,3 +47,5 @@
 
 ### 3D Modeling
 * **Blender Blender:** Proficient in 3D modeling and animation.
+
+### TECHNICAL CERTIFICATIONS
