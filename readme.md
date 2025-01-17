@@ -1,7 +1,7 @@
 <table align="center">
 <tr>
    <td align="center" width="440" height="170">
-        <img src="https://imgur.com/a/Noa4uSR" alt="alx completion cert" />
+        <img src="https://imgur.com/a/Ufi9J7P" alt="alx completion cert" />
       <br> 
     </td> 
 </tr>
