@@ -6,7 +6,7 @@
     </td> 
 </tr>
 <tr>
-     <td align="center" width="440" height="170">
+     <td align="center" width="1200" height="300">
         <img src= "https://github.com/user-attachments/assets/1310e1f6-3a3e-4d6c-ac3d-6149a5c837eb" alt="alx completion cert" />
       <br> 
     </td> 
