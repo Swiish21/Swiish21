@@ -18,7 +18,7 @@
 ### Programming Skillset
 * **Python 🐍:** Expanding my knowledge on data science, machine learning, and web development.
 * **C++ 🚀:** Strong grasp of object-oriented programming and systems-level development.
-* **JavaScript 🌐:** Skilled in frontend and backend development.
+* **JavaScript 🌐:** Skilled in frontend and backend development..
 * **R 📊:** Utilizing statistical computing and data visualization for data analysis and science.
 * **Dart/Flutter & React Native 📱:** Proficient in building cross-platform mobile apps.
 
