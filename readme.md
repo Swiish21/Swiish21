@@ -17,10 +17,10 @@
 
 ### Programming Skillset
 * **Python 🐍:** Expanding my knowledge on data science, machine learning, and web development.
-* **C++ 🚀:** Strong grasp of object-oriented programming and systems-level development.
+* **C++ & Golang 🚀:** Learning object-oriented programming and systems-level development.
 * **JavaScript 🌐:** Skilled in frontend and backend development..
 * **R 📊:** Utilizing statistical computing and data visualization for data analysis and science.
-* **Dart/Flutter & React Native 📱:** Proficient in building cross-platform mobile apps.
+* **Dart/Flutter & React Native 📱:** Learning how to  build cross-platform mobile apps.
 
 ### Data Science
 * **Python & Jupyter Notebooks 📊:** Proficient in data analysis, visualization, and machine learning.
@@ -34,11 +34,6 @@
 * **React ⚛️, Angular 🅰️, Vue Vue.js:** Teaching myself modern frontend frameworks.
 * **Django 🐘:** Exploring backend web development with Python.
 * **Node.js 🌐:** Learning to build server-side applications with JavaScript.
-
-## Flutter Mobile Development
-* **Cross-platform Apps 📱:** Building sleek and responsive mobile applications with Flutter.
-* **State Management 🧩:** Utilizing tools like Provider, Riverpod, and Bloc for efficient app state handling.
-* **Firebase 🔥:** Integrating backend services for authentication, real-time databases, and cloud storage.
 
 ### Design Tools
 * **Adobe Creative Suite:** Proficient in Photoshop 🎨, Illustrator ✏️, and other design tools.
